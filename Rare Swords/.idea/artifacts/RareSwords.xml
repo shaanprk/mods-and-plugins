@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RareSwords">
+    <output-path>D:/Spigot 1.16/plugins</output-path>
+    <root id="archive" name="RareSwords.jar">
+      <element id="module-output" name="Rare Swords" />
+    </root>
+  </artifact>
+</component>

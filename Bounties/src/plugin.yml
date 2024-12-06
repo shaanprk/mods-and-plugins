@@ -1,0 +1,11 @@
+name: Bounties
+version: 1.0
+main: me.binniboi.bounties.Main
+author: binniboi
+depend: [Vault, PlaceholderAPI]
+description: A bounties plugin made by binniboi.
+
+commands:
+  bounty:
+    usage: /bounty
+    description: Main command of the plugin.

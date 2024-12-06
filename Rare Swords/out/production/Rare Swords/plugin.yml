@@ -1,0 +1,10 @@
+name: RareSwords
+version: 1.0
+main: me.binniboi.rare_swords.Main
+author: binniboi
+description: A rare swords plugin.
+
+commands:
+  swords:
+    usage: /swords create <tier>
+    description: Creates a rare sword!
