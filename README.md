@@ -1,4 +1,4 @@
-This will serve as the repository of all our Mods and Plugins.
+Repository containing all my previous mods and plugins
 
 Mods:
 Eureka
@@ -6,7 +6,5 @@ Eureka
 
 Plugins:
 Factions
-
-
-To-do:
-Eureka - Factions Compatibility
+Rare Swords
+Bounties
